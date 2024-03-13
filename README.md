@@ -1,4 +1,4 @@
-# agent_wtf
+# cym-assistant-backend
 
 ## Installation
 
